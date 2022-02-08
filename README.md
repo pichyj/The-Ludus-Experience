@@ -27,7 +27,7 @@ This game was created in [Twine](https://twinery.org/) using the story format Ha
 
 [Artwork](https://drive.google.com/drive/folders/1euJc-qh-IJ9lDsDU9Zh0WqXagv0u96S5?usp=sharing) - artwork done by me, Pichy J, through using Procreate. 
 
-[Art Portfolio](https://www.instagram.com/pichycreates/?hl=en) -my art portfolio for more of my work
+[Art Portfolio](https://www.instagram.com/pichycreates/?hl=en) - my art portfolio for more of my work
 
 
 
