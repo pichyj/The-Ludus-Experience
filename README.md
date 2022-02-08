@@ -1,17 +1,18 @@
 # The-Ludus-Experience
-
 The zip file is too large. In order to view files, download the zip file (raw) and open desired files. 
 
 To play, downlaod the zip file (raw), open the html file (ends in .html), and open in your preferred browser.
 *note: the gray sound bar to the left allows you to adjust the volume. 
 
 # Acknowledgements
-
 This game was created in [Twine](https://twinery.org/) using the story format Harlowe 3.2.3 for the class CMPM 80K: Foundations of Video Game Design at UCSC led by professors Tad Leckman and Noad Wardrip-Fruin. 
 
 ## Websites Used for Help
+[Twine Q&A](http://twinery.org/questions/questions) - used for help when using macros, timers, if statements, etc. 
+
 
 [Sound Bible](https://soundbible.com/) - used for all sounds in the game. Credits are listed below and in the game.  
+[Google Drive of audio](https://drive.google.com/drive/folders/1euJc-qh-IJ9lDsDU9Zh0WqXagv0u96S5?usp=sharing) - converted to mp3
 
 * Footsteps - Mike Koenig
 * Text Message Alert 3 - Daniel Simion
@@ -24,11 +25,9 @@ This game was created in [Twine](https://twinery.org/) using the story format Ha
 * Wind - Mark DiAngelo
 * Old Door Creaking - Stephan
 
-[Artwork](https://www.instagram.com/pichycreates/?hl=en) - artwork done by me, Pichy J, through using Procreate. 
-*note: I will create a google drive soon for all sounds and art used in order for it to be a clickable link. 
+[Artwork](https://drive.google.com/drive/folders/1euJc-qh-IJ9lDsDU9Zh0WqXagv0u96S5?usp=sharing) - artwork done by me, Pichy J, through using Procreate. 
 
-* The link above is only to my art portfolio, please note that the specific game images are in the zip file and will be created in a google drive soon. 
+[Art Portfolio](https://www.instagram.com/pichycreates/?hl=en) -my art portfolio for more of my work
 
-[Twine Q&A](http://twinery.org/questions/questions) - used for help when using macros, timers, if statements, etc. 
 
 
